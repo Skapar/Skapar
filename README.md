@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dauren</h1>
 <h3 align="center">A passionate Software Engineer from Kazakhstan</h3>
 
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skapar&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skapar&layout=compact&theme=radical)
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=skapar&show_icons=true&theme=radical" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skapar&layout=compact&theme=radical" alt="Top Languages" /> 
 </p>
 
 <!--
